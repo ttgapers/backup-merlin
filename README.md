@@ -11,7 +11,7 @@
 1.  Run the installer:
 	```sh
 	mkdir -p /jffs/addons/schedbackup && /usr/sbin/curl -s "https://raw.githubusercontent.com/ttgapers/backup-merlin/master/backup-merlin.sh" -o "/jffs/addons/schedbackup/backup-merlin" && chmod 755 /jffs/addons/schedbackup/backup-merlin
-	```
+	sh```
 
 2.  Edit backup-merlin.sh and update BLOC to reflect USB name, and RETENTION for your chosen retention in days (default 7)
 
