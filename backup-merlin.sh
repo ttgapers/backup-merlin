@@ -16,7 +16,7 @@
 VERSION=0.0.1
 
 UTIL=nsru
-BLOC=/mnt/sauron-usb/$UTIL
+BLOC=/mnt/YOUR-usb/$UTIL
 BARC=$BLOC/archive
 BKUP=$BLOC/backup
 RETENTION=7
