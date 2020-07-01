@@ -7,7 +7,7 @@
 ###########################################################################################################################################
 # Changelog
 #------------------------------------------------
-# see schedbackup.sh
+# See: https://github.com/ttgapers/backup-merlin
 # Version 0.0.1			  01-July-2020
 # - Initial release
 # - POSIX compliant - thanks @Adamm
